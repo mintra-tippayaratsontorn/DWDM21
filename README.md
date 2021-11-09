@@ -81,7 +81,7 @@ Group Name : ลูกหมี
     * Group by (pandas)
     * [PD] save ตารางเอาไปใช้ที่อื่น
     * [PD] การสร้างตาราง
-  * [Slide บทที่ 3]()
+  * [Slide บทที่ 3](https://github.com/mintra-tippayaratsontorn/DWDM21/blob/main/Chapter3.pdf)
 
 
 * บทที่ 4 [Data Warehousing and On-line Anaalytical Processing](https://github.com/mintra-tippayaratsontorn/DWDM21/blob/main/Chapter4.pdf) ประกอบด้วยหัวข้อ ดังนี้
@@ -143,13 +143,12 @@ Group Name : ลูกหมี
     * Example Application (Color Quantization)
       * นับจำนวนสี
       * จัดกลุ่มสีให้เหลือ 16 สี
-  * [Slide บทที่ 7]()
+  * [Slide บทที่ 7-1](https://github.com/mintra-tippayaratsontorn/DWDM21/blob/main/Chapter9.pdf)
+  * [Slide บทที่ 7-2](https://github.com/mintra-tippayaratsontorn/DWDM21/blob/main/Chapter10.pdf)
 
 
 * Exam
   * [MiniExam](https://github.com/mintra-tippayaratsontorn/DWDM21/blob/main/MiniExam.ipynb)
-
-
 * Project กลุ่มลูกหมี
   * [Project Colab](https://github.com/mintra-tippayaratsontorn/DWDM21/blob/main/Project_DWDM.ipynb)
   * [Project Present](https://github.com/mintra-tippayaratsontorn/DWDM21/commit/b733ebf26d880c1d15521aecc145fc348b63e013)
